@@ -11,7 +11,7 @@ Tap the middle key 3 times (still keep holding the unlock key) - the fob's led b
 Now select the key (middle, unlock or lock) you want to program and keep that pressed whilst transmitting the source you want to copy.
 
 
-![Fob Image](_33mhzFobs.png)
+![Fob Image](_433mhzFobs.png)
 
 
 
